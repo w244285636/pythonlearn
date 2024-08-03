@@ -5,6 +5,7 @@ url = "https://www.pearvideo.com/video_1795088"
 
 contId = url.split("_")[1]
 
+#https://www.pearvideo.com/videoStatus.jsp?contId=1795088&mrd=0.20977252056039
 
 videoUrl = f"https://www.pearvideo.com/videoStatus.jsp?contId={contId}&mrd=0.20977252056039"
 
